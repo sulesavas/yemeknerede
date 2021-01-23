@@ -30,6 +30,18 @@ Projeyi lokalde çalıştırabilmek için:
 ### Ekran Görüntüleri
 
 <div align="center">
-  <img width="600" src="/screenshot.png">
+  <img width="600" src="/screenshots/giris.jpg">
+</div>
+<div align="center">
+  <img width="600" src="/screenshots/anasayfa.jpg">
+</div>
+<div align="center">
+  <img width="600" src="/screenshots/restoran.jpg">
+</div>
+<div align="center">
+  <img width="600" src="/screenshots/restoran-detay.png">
+</div>
+<div align="center">
+  <img width="600" src="/screenshots/yorumlar.png">
 </div>
 
