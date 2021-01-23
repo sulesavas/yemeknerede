@@ -6,16 +6,10 @@
  Kullanıcı Adı: user<br />
  Şifre: 123456<br />
 <br />
-Bu ödevde aşağıda belirtilen kriterleri karşılayan ve içerik konusunda serbest olduğunuz bir uygulama yapmanız isteniyor.
 
-## İstenilenler
+Yemek nerede uygulaması
 
-- Min. 5 sayfadan oluşmalıdır.
-- 10 tane component testi yazmanız beklenmektedir.
-- Servis için [Mockapi.io](https://www.mockapi.io/) kullanabilirsiniz. Bunun için üyelik oluşturmanız gerekmektedir.
-- Proje bittikten sonra [Netlify](https://www.netlify.com/) üzerinden projeyi deploy etmeniz gerekmektedir.
-
-## Kullanılması gereken kütüphaneler
+### Kullanılan Teknolojiler
 
 - [React Router](https://www.npmjs.com/package/react-router)
 - [Styled component](https://www.npmjs.com/package/styled-components)
@@ -23,6 +17,19 @@ Bu ödevde aşağıda belirtilen kriterleri karşılayan ve içerik konusunda se
 - [Axios](https://www.npmjs.com/package/axios)
 - [@testing-library/user-event](https://www.npmjs.com/package/@testing-library/user-event)
 
-### Not:
+## Kurulum
 
-- Test ve deployment konusu şu an için bekleyebilir. Önümüzdeki iki hafta deployment ve test konusunu işledikten sonra projenize bunları dahil edebilirsiniz.
+Projeyi lokalde çalıştırabilmek için: 
+
+* Repo'yu klonlayın `git clone https://github.com/sulesavas/yemeknerede.git`
+* Komutu çalıştırın `cd yemeknerede`
+* Komutu çalıştırın `npm install` veya `yarn install`
+* Komutu çalıştırın `npm start` veya `yarn install` 
+
+
+### Ekran Görüntüleri
+
+<div align="center">
+  <img width="600" src="/screenshot.png">
+</div>
+
