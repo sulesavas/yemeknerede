@@ -1,13 +1,13 @@
 
 # Bitirme Ödevi
 
-## Demo
+Yemek nerede uygulaması
+
+### Demo Sitesi
  Site: https://yemeknerede.netlify.app<br />
  Kullanıcı Adı: user<br />
  Şifre: 123456<br />
-<br />
 
-Yemek nerede uygulaması
 
 ### Kullanılan Teknolojiler
 
