@@ -1,7 +1,5 @@
 
-# Bitirme Ödevi
-
-Yemek nerede uygulaması
+# Yemek nerede uygulaması
 
 ### Demo Sitesi
  Site: https://yemeknerede.netlify.app<br />
